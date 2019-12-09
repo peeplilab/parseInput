@@ -1,3 +1,7 @@
+Instructions: 
+npm i in the root folder & in the api folder.
+Start localhost:3000 on a client
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
